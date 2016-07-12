@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="1dip"
+    android:background="#191970"
+    >
+<TextView 
+    android:id="@+id/item_main"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:width="130dip"
+    android:orientation="vertical" 
+    android:paddingTop="5dip"
+    android:paddingBottom="5dip"
+    android:background="#F5F5F5"
+    android:paddingLeft="5dip"
+    android:text="猪肉"
+    />
+<TextView 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    android:paddingTop="5dip"
+    android:paddingBottom="5dip"
+    android:background="#F5F5F5"
+    android:width="30dip"
+    android:text=" : "
+    />
+<TextView 
+    android:id="@+id/item_money"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    android:width="130dip"
+    android:paddingTop="5dip"
+    android:paddingBottom="5dip"
+    android:background="#F5F5F5"
+    android:text="25.5"
+    />
+<TextView 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    android:paddingTop="5dip"
+    android:paddingBottom="5dip"
+    android:background="#F5F5F5"
+    android:paddingRight="5dip"
+    android:text=" 元 "
+    />
+
+</LinearLayout>

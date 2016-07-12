@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/callmedj/Desktop/developer/AccountForLazy/app/build/intermediates/exploded-aar/com.github.lecho/hellocharts-library/1.5.8/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="56c6a22c42588628903e9dda5d8f3aa1c1b4372f">
+        <dex dex="/Users/callmedj/Desktop/developer/AccountForLazy/app/build/intermediates/pre-dexed/debug/classes-7709f37d7d8d3873dbdff16560bd4d368c04782c.jar" />
+    </item>
+    <item
+        jar="/Users/callmedj/Desktop/developer/AccountForLazy/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/callmedj/Desktop/developer/AccountForLazy/app/build/intermediates/pre-dexed/release/classes-8e3d93c2dbf523733cd1c7e654b01fb212f9a990.jar" />
+    </item>
+    <item
+        jar="/Users/callmedj/Desktop/developer/AccountForLazy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/callmedj/Desktop/developer/AccountForLazy/app/build/intermediates/pre-dexed/release/classes-5959f0ceaf6f03bc4f07134d1b16481b09b6a238.jar" />
+    </item>
+    <item
+        jar="/Users/callmedj/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/Users/callmedj/Desktop/developer/AccountForLazy/app/build/intermediates/pre-dexed/release/activeandroid-3.1.0-SNAPSHOT-92ccbbe5006db01eb727806c2d683117ebdab62e.jar" />
+    </item>
+    <item
+        jar="/Users/callmedj/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/callmedj/Desktop/developer/AccountForLazy/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1-850e07f2b3ddc60a3a6ff2551ccc837ff554e978.jar" />
+    </item>
+    <item
+        jar="/Users/callmedj/Desktop/developer/AccountForLazy/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/callmedj/Desktop/developer/AccountForLazy/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1-4deff82f876331b1d973220d53bfacbc56a58e1e.jar" />
+    </item>
+
+</items>
