@@ -1,4 +1,4 @@
-package com.callmedj.accountforlazy.counter1;
+package com.callmedj.accountforlazy.counter;
 
 import java.util.Date;
 import java.util.List;

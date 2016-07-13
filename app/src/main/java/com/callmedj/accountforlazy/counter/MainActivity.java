@@ -1,4 +1,4 @@
-package com.callmedj.accountforlazy.counter1;
+package com.callmedj.accountforlazy.counter;
 
 import android.app.Activity;
 import android.media.AudioManager;

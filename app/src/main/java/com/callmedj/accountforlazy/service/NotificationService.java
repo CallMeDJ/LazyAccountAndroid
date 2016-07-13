@@ -1,6 +1,6 @@
 package com.callmedj.accountforlazy.service;
 
-import com.callmedj.accountforlazy.counter1.MainActivity;
+import com.callmedj.accountforlazy.counter.MainActivity;
 
 import android.app.Notification;
 import android.app.NotificationManager;

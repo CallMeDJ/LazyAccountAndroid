@@ -1,4 +1,4 @@
-package com.callmedj.accountforlazy.counter1;
+package com.callmedj.accountforlazy.counter;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
