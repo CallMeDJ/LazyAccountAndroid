@@ -30,7 +30,7 @@ public class MainActivity extends BaseActivity
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main22);
+        setContentView(R.layout.activity_main);
         context = this;
         setVolumeControlStream(AudioManager.STREAM_MUSIC);
         mNavigationDrawerFragment = (NavigationDrawerFragment)
@@ -109,7 +109,7 @@ public class MainActivity extends BaseActivity
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
-            View rootView = inflater.inflate(R.layout.fragment_main22, container, false);
+            View rootView = inflater.inflate(R.layout.fragment_main, container, false);
             return rootView;
         }
 
