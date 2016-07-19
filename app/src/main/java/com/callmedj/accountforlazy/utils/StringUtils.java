@@ -1,5 +1,7 @@
 package com.callmedj.accountforlazy.utils;
 
+import com.callmedj.accountforlazy.entity.Category;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.StringTokenizer;
@@ -34,5 +36,14 @@ public class StringUtils {
 		}
 		return result;
 	}
+
+
+	public static Category learnCategory(){
+
+
+		return null;
+	}
+
+
 
 }

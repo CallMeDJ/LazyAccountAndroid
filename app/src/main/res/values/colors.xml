@@ -38,5 +38,6 @@
     <color name="gray">#dddddd</color>
     <color name="deep_gray">#666666</color>
     <color name="pink">#FF3366</color>
+    <color name="light_pink">#72FF3366</color>
 
 </resources>

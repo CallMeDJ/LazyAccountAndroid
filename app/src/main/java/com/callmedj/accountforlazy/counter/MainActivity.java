@@ -23,7 +23,7 @@ public class MainActivity extends BaseActivity
     private Activity context;
 
     /**
-     * Used to store the last screen title. For use in {@link #restoreActionBar()}.
+     * Used to store the last screen title. For use in .
      */
     private CharSequence mTitle;
 
@@ -52,7 +52,7 @@ public class MainActivity extends BaseActivity
                 current = new AccountHistoryFragment();
                 break;
             case 1:
-                current = PlaceholderFragment.newInstance(position);
+                current = new StatisticsFragment();
                 break;
             case 2:
                 current = PlaceholderFragment.newInstance(position);
@@ -64,7 +64,6 @@ public class MainActivity extends BaseActivity
         fragmentManager.beginTransaction()
                 .replace(R.id.container, current)
                 .commit();
-        Toast.makeText(this,position+"",Toast.LENGTH_LONG).show();
     }
 
     public void onSectionAttached(int number) {

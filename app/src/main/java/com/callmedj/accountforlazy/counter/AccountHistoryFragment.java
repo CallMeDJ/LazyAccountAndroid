@@ -68,8 +68,6 @@ public class AccountHistoryFragment extends Fragment {
 		btn.setOnClickListener(new OnClickListener() {
 			@Override
 			public void onClick(View v) {
-				//Toast toast = Toast.makeText(context,"�㰡",Toast.LENGTH_LONG);
-				//toast.show();
 				String string = text.getText().toString();
 				text.setText("");
 				Map<String, Double> data = StringUtils.strToMoney(string);
